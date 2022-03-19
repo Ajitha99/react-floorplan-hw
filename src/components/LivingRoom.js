@@ -1,6 +1,6 @@
 function LivingRoom (){
     return(
-        <div>
+        <div className="livingDiv">
             <h3>Living Room</h3>
         </div>
     )
